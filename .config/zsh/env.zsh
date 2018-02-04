@@ -1,5 +1,5 @@
 path=(
-  ~/.npm-packages
+  ~/.npm-packages/bin
   $path
 )
 export PATH
