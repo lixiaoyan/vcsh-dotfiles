@@ -1,5 +1,6 @@
 path=(
   ~/.npm-packages/bin
+  ~/.jsvu
   $path
 )
 export PATH
