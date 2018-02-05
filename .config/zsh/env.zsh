@@ -1,4 +1,5 @@
 path=(
+  ~/Bin
   ~/.npm-packages/bin
   ~/.jsvu
   $path

@@ -1,0 +1,5 @@
+[user]
+	email = lxy.lixiaoyan@gmail.com
+	name = XiaoYan Li
+[pager]
+	diff = diff-so-fancy | less
