@@ -15,7 +15,7 @@ zstyle ':completion:*' special-dirs true
 source ~/.config/zsh/base16-shell/scripts/base16-onedark.sh
 
 # plugins
-source ~/.config/zsh/antigen.zsh
+source ~/.config/zsh/antigen/antigen.zsh
 
 antigen bundle mafredri/zsh-async
 
