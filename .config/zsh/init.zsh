@@ -5,6 +5,7 @@ SAVEHIST=10000
 
 setopt INC_APPEND_HISTORY
 
+setopt AUTO_CD
 setopt AUTO_PUSHD
 
 zstyle ":completion:*" menu select
