@@ -11,7 +11,7 @@ zstyle ":completion:*" menu select
 zstyle ":completion:*" insert-tab false
 zstyle ':completion:*' special-dirs true
 
-# color schema
+# color scheme
 source ~/.config/zsh/base16-shell/scripts/base16-onedark.sh
 
 # plugins
