@@ -34,5 +34,8 @@ bindkey -v
 bindkey "^[[A" history-substring-search-up
 bindkey "^[[B" history-substring-search-down
 
+# fasd
+eval "$(fasd --init auto)"
+
 # others
 source ~/.config/zsh/alias.zsh
