@@ -8,9 +8,10 @@ setopt INC_APPEND_HISTORY
 setopt AUTO_CD
 setopt AUTO_PUSHD
 
+zstyle ":completion:*" matcher-list "m:{[:lower:][:upper:]}={[:upper:][:lower:]}"
 zstyle ":completion:*" menu select
 zstyle ":completion:*" insert-tab false
-zstyle ':completion:*' special-dirs true
+zstyle ":completion:*" special-dirs true
 
 # color scheme
 source ~/.config/zsh/base16-shell/scripts/base16-onedark.sh
