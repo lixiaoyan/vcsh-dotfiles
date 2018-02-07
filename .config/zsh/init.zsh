@@ -36,6 +36,11 @@ bindkey -v
 bindkey "^[[A" history-substring-search-up
 bindkey "^[[B" history-substring-search-down
 
+# completions
+autoload -Uz bashcompinit
+bashcompinit
+eval "$(gopass completion bash)"
+
 # fasd
 eval "$(fasd --init auto)"
 
