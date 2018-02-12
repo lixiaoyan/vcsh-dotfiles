@@ -44,5 +44,8 @@ eval "$(gopass completion bash)"
 # fasd
 eval "$(fasd --init auto)"
 
+# fuck
+eval "$(fuck --alias)"
+
 # others
 source ~/.config/zsh/alias.zsh
