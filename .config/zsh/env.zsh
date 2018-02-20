@@ -1,5 +1,6 @@
 path=(
   ~/Bin
+  ~/Projects/flutter/bin
   ~/.npm-packages/bin
   ~/.jsvu
   $path
