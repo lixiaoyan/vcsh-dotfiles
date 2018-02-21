@@ -4,3 +4,5 @@ eval "$(hub alias -s)"
 
 alias vim=nvim
 alias vi=nvim
+
+alias pass=gopass
