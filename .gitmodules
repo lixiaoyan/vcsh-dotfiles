@@ -10,3 +10,6 @@
 [submodule "Projects/diff-so-fancy"]
 	path = Projects/diff-so-fancy
 	url = https://github.com/so-fancy/diff-so-fancy.git
+[submodule ".config/nvim/vim-plug"]
+	path = .config/nvim/vim-plug
+	url = https://github.com/junegunn/vim-plug.git
