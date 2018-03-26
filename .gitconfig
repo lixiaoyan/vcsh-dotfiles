@@ -3,3 +3,8 @@
 	name = XiaoYan Li
 [pager]
 	diff = diff-so-fancy | less
+[alias]
+	cl = clone
+	st = status
+	br = branch
+	co = checkout

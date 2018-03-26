@@ -1,4 +1,5 @@
 {
+  "window.menuBarVisibility": "hidden",
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
   "workbench.colorTheme": "One Dark Pro",
@@ -27,6 +28,11 @@
   "vim.neovimPath": "/usr/bin/nvim",
   "vim.hlsearch": true,
   "vim.useSystemClipboard": true,
+  "vim.handleKeys": {
+    "<C-k>": false,
+    "<C-c>": false,
+    "<C-x>": false
+  },
   "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"

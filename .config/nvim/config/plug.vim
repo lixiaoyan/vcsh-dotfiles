@@ -8,7 +8,7 @@ Plug 'editorconfig/editorconfig-vim'
 
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 
-Plug 'dietsche/vim-lastplace'
+Plug 'farmergreg/vim-lastplace'
 
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-surround'
